@@ -10,5 +10,7 @@ public class Main {
         System.out.println("第一次fix分支提交");
         System.out.println("idea to Github");
         System.out.println("Github to idea1");
+        System.out.println("idea to Github2");
+
     }
 }

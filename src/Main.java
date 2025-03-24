@@ -13,5 +13,6 @@ public class Main {
         System.out.println("idea to Github2");
         System.out.println("Gitee to idea");
         System.out.println("idea to gitee");
+        System.out.println("idea to github");
     }
 }

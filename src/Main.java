@@ -1,6 +1,3 @@
-/**
- * ${description}
- **/
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -14,6 +11,9 @@ public class Main {
         System.out.println("Gitee to idea");
         System.out.println("idea to gitee");
         System.out.println("idea to github");
-         System.out.println("复习1");
+        System.out.println("idea to github 4");
+        System.out.println("复习");
+        System.out.println("复习2");
+        System.out.println("复习3");
     }
 }
